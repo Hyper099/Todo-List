@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"node todo-asynchro-promises.js"
+    "dev":"node todo-asynchro-promises.js",
+    "async": "node todo-async-await.js"
   },
   "keywords": [],
   "author": "",
